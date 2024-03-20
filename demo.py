@@ -10,3 +10,7 @@ def new_func():
 
 
 new_func()
+
+
+class Employee:
+    pass
