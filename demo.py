@@ -3,3 +3,10 @@ def hello(username):
 
 
 print(hello('Pola'))
+
+
+def new_func():
+    print('new_func')
+
+
+new_func()
