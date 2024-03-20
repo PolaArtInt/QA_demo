@@ -13,4 +13,8 @@ new_func()
 
 
 class Employee:
-    pass
+    def __init__(self, username):
+        self.username = username
+
+
+emp_1 = Employee('Pola')
